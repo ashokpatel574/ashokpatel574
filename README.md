@@ -6,7 +6,7 @@
 
 
 <br clear="both">
-<img align="right" height="200" src="https://i.pinimg.com/originals/2e/fc/4a/2efc4abf026166b36a01d64a5956284f.gif"  />
+<img align="right" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJETU8HwaGzNmd7eF1ASDv8_S6N-drQlbDQQ&usqp=CAU"  />
 
 
 <p align="left">Motivated JavaScript developer with a strong desire for a front-end developer career. Adept in programming languages and development technologies, passionate about learning and committed to creating and maintaining reusable, efficient code. Known for being a good team player, collaborating effectively in cross-functional teams to achieve project goals.<br><br>🌍 I'm based in Bengaluru, India<br>✉️ You can contact me at ashokpatel574@gmail.com<br>🧠 Currently, I'm learning Backend Development</p>
