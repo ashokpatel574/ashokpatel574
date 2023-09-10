@@ -69,12 +69,12 @@
 
 [<img align="left" alt="ashokpatel | linkedin" width="45px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="ashokpatel | twitter" width="45px" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" />][twitter]
-[<img align="left" alt="ashokpatel | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />](ashokpatel574@gmail.com)
+[<img align="left" alt="ashokpatel | email" width="45px" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" />][gmail]
 
 
 [linkedin]: https://www.linkedin.com/in/ashokpatel574/
 [twitter]: https://twitter.com/ashokpatel574
-[gmail]: ashokpatel5748@gmail.com
+[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=ashokpatel574@gmail.com
 
 
 
