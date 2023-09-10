@@ -6,10 +6,11 @@
 
 
 <br clear="both">
-<img align="right" height="250" src="https://64.media.tumblr.com/997065ee0d829476e1299d239c844163/tumblr_omt8bvbDfC1v9gbpno1_400.gif"  />
+<img align="right" height="230" src="https://64.media.tumblr.com/997065ee0d829476e1299d239c844163/tumblr_omt8bvbDfC1v9gbpno1_400.gif"  />
+<span align="center"></span>
 
 
-<p align="left">Motivated JavaScript developer with a strong desire for a front-end developer career. Adept in programming languages and development technologies, passionate about learning and committed to creating and maintaining reusable, efficient code. Known for being a good team player, collaborating effectively in cross-functional teams to achieve project goals.<br><br>🌍 I'm based in Bengaluru, India<br>✉️ You can contact me at ashokpatel574@gmail.com<br>🧠 Currently, I'm learning Backend Development</p>
+<p align="left">Motivated JavaScript developer with a strong desire for a front-end developer career. <br/> Adept in programming languages and development technologies, passionate  <br/> about learning and committed to creating and maintaining reusable, efficient code. <br/> Known for being a good team player, collaborating effectively in cross-functional teams to achieve project goals.<br><br>🌍 I'm based in Bengaluru, India<br>✉️ You can contact me at ashokpatel574@gmail.com<br>🧠 Currently, I'm learning Backend Development</p>
 
 
 
